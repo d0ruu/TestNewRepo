@@ -1,1 +1,2 @@
 This is a log file
+and this is the new content added from my loacal repo :)
